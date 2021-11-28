@@ -1,0 +1,24 @@
+.icon-github,
+.icon-pixiv,
+.icon-twitter1 {
+    position: relative;
+    top: 7px;
+    left: -3px;
+    line-height: 5px;
+    font-size: 20pt;
+}
+
+.skill ul li {
+    display: inline-block;
+    font-size: 20pt;
+}
+
+.left-content h2 i,
+.right-content h2 i {
+    margin-left: 10px;
+    font-size: 10pt;
+}
+
+.second-section .right-content p a {
+    color: #e44b3d;
+}
